@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VITALIY-WIN</Machine>
+    <WindowsUser>vitaliy</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>153ae73c-dfd0-4028-9fc5-72ec325cb871</PackageIdentityName>
+    <RegisteredManifestChecksum>5F840F5384EB63D5062A8D5AFE48FF4B44D94BA30CF37847B3061B1FD1C10B87</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>153ae73c-dfd0-4028-9fc5-72ec325cb871_1.0.0.0_neutral__gz5adgtvsp0rg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>153ae73c-dfd0-4028-9fc5-72ec325cb871_gz5adgtvsp0rg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>153ae73c-dfd0-4028-9fc5-72ec325cb871</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vitaliy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-03T20:42:57.241</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T19:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T19:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T19:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T19:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\img\femalecodertocat.png">
+      <PackagePath>www\img\femalecodertocat.png</PackagePath>
+      <Modified>2014-02-28T21:49:29.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\404.html">
+      <PackagePath>www\404.html</PackagePath>
+      <Modified>2014-02-28T20:50:38.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2014-03-03T19:21:16.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.eot">
+      <PackagePath>www\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.eot</PackagePath>
+      <Modified>2014-02-28T20:47:04.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>www\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.svg</PackagePath>
+      <Modified>2014-02-28T20:47:04.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>www\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf</PackagePath>
+      <Modified>2014-02-28T20:47:04.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff">
+      <PackagePath>www\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff</PackagePath>
+      <Modified>2014-02-28T20:47:04.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\img\octobiwan.jpg">
+      <PackagePath>www\img\octobiwan.jpg</PackagePath>
+      <Modified>2014-02-28T21:49:29.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\bootstrap\dist\css\bootstrap.css">
+      <PackagePath>www\bower_components\bootstrap\dist\css\bootstrap.css</PackagePath>
+      <Modified>2014-02-28T21:49:29.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\bootstrap\dist\css\bootstrap-theme.css">
+      <PackagePath>www\bower_components\bootstrap\dist\css\bootstrap-theme.css</PackagePath>
+      <Modified>2014-02-28T21:49:29.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\stylesheets\style.css">
+      <PackagePath>www\stylesheets\style.css</PackagePath>
+      <Modified>2014-03-03T19:21:17.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\jquery\dist\jquery.js">
+      <PackagePath>www\bower_components\jquery\dist\jquery.js</PackagePath>
+      <Modified>2014-02-28T22:41:42.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\js\utils\files.utils.js">
+      <PackagePath>www\js\utils\files.utils.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\localforage\dist\localforage.js">
+      <PackagePath>www\bower_components\localforage\dist\localforage.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\lodash\dist\lodash.js">
+      <PackagePath>www\bower_components\lodash\dist\lodash.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\async\lib\async.js">
+      <PackagePath>www\bower_components\async\lib\async.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\bootstrap\dist\js\bootstrap.js">
+      <PackagePath>www\bower_components\bootstrap\dist\js\bootstrap.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\bower_components\angular\angular.js">
+      <PackagePath>www\bower_components\angular\angular.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\js\controllers\auth.js">
+      <PackagePath>www\js\controllers\auth.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\js\controllers\settings.js">
+      <PackagePath>www\js\controllers\settings.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\js\app.js">
+      <PackagePath>www\js\app.js</PackagePath>
+      <Modified>2014-03-03T19:35:31.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\client\kiosk.js">
+      <PackagePath>www\client\kiosk.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\js\services\connect.js">
+      <PackagePath>www\js\services\connect.js</PackagePath>
+      <Modified>2014-03-01T00:26:37.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\js\services\data.js">
+      <PackagePath>www\js\services\data.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\www\js\services\notify.js">
+      <PackagePath>www\js\services\notify.js</PackagePath>
+      <Modified>2014-02-28T21:49:29.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bin\Release\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-03T20:42:57.132</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

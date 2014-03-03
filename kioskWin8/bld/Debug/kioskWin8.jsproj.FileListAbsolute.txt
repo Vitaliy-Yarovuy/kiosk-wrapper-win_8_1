@@ -1,0 +1,15 @@
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bin\Debug\ReverseMap\resources.pri
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bin\Debug\AppxManifest.xml
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bin\Debug\kioskWin8.build.appxrecipe
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\priconfig.xml
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\priconfig.xml.intermediate
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\layout.resfiles
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\layout.resfiles.intermediate
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\resources.resfiles
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\resources.resfiles.intermediate
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\pri.resfiles
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\pri.resfiles.intermediate
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\qualifiers.txt
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\qualifiers.txt.intermediate
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vitaliy\Desktop\kioskWin8\kioskWin8\bld\Debug\ProjectArchitectures.txt
